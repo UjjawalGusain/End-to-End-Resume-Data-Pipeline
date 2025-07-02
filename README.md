@@ -16,6 +16,11 @@ This pipeline simulates the full lifecycle of resume processing — from ingesti
 
 ---
 
+## Sources of Original Unstructured Data
+
+- **Kaggle – Resume Dataset:** [Gaurav Duttakiit Resume Data](https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset/) and [Snehaan Bhawal Unstructured Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
+
+---
 ## Architecture
 
 ```text
