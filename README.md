@@ -79,7 +79,6 @@ notebooks/
 | **Delta Lake**    | ACID-compliant table storage     |
 | **PySpark**       | Data transformation & SCD logic  |
 | **SQL**           | Reporting & analytics            |
-| **Jinja (optional)** | For SQL templating (if used)   |
 
 ---
 
