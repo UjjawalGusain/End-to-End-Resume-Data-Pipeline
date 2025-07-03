@@ -163,7 +163,7 @@ dbutils.notebook.run("05_reporting_queries", 60)
 
 **Ujjawal Gusain**  
 Data Engineer | Resume Intelligence Systems  
-[LinkedIn](https://www.linkedin.com/in/ujjawalgusain31)
+[LinkedIn](https://www.linkedin.com/in/ujjawal-gusain/)
 
 ---
 
