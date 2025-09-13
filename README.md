@@ -1,5 +1,9 @@
 # End-to-End-Resume-Data-Pipeline
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/394368f8-5534-496b-8352-60b0a9a97192" alt="unigit_src_image" width="512" height="512" />
+</div>
+
 An end-to-end resume ingestion and analytics pipeline built on **Databricks**, using **Apache Spark**, **Delta Lake**, and **PySpark**. This project simulates real-world resume data ingestion, parsing, transformation, dimension modeling (star schema), and reporting using SQL-based analytics.
 
 ---
